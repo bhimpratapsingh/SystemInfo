@@ -18,8 +18,7 @@ Also, you can initiate a process (Notepad, MS Paint, etc) from the terminal itse
 ![Initial Screen](https://github.com/bhimpratapsingh/SystemInfo/blob/main/Assests/InitialScreen.jpg)
 
 ## Quick Walkthrough Video:
-
-[![Watch the video](https://github.com/bhimpratapsingh/SystemInfo/blob/main/Assests/InitialScreen.jpg)](https://github.com/bhimpratapsingh/SystemInfo/blob/main/Assests/SystemInfoUtility.mp4)
+https://user-images.githubusercontent.com/16204113/223344346-25e6ad13-b16d-479a-825b-394988238b2d.mp4
 
 ## Sample System Info Result
 
